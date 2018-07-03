@@ -245,7 +245,7 @@
     "relativePath": "mikado_outline_shadow.fnt"
   },
   "d6ff10bc-4d58-4d63-8af4-19151a90da2c": {
-    "asset": 1476929564000,
+    "asset": 1529992219000,
     "meta": 1476929487000,
     "relativePath": "textures"
   },
@@ -271,8 +271,8 @@
   },
   "c6b5fd13-6a7f-4187-8716-1189e5d13c27": {
     "asset": 1476929487000,
-    "meta": 1529289121000,
-    "relativePath": "textures/PurpleMonster.png"
+    "meta": 1529992219000,
+    "relativePath": "textures/Player.png"
   },
   "80c7b1e7-1df7-4fc7-94e5-c530738420ed": {
     "asset": 1476929487000,
@@ -280,12 +280,12 @@
     "relativePath": "textures/star.png"
   },
   "9713e070-05ce-41a0-9b67-03c86c666129": {
-    "asset": 1529989900000,
-    "meta": 1529989900000,
+    "asset": 1530162160000,
+    "meta": 1530162160000,
     "relativePath": "game.fire"
   },
   "85dbe9c0-4437-4ce0-a2ab-12e4ac52cf29": {
-    "asset": 1529825967000,
+    "asset": 1529989834000,
     "meta": 1529290466000,
     "relativePath": "scripts"
   },
@@ -294,19 +294,29 @@
     "meta": 1529894471000,
     "relativePath": "scripts/Player.js"
   },
-  "edd905e3-9726-456f-8c32-fc1a0c5c90fc": {
-    "asset": 1529989707000,
-    "meta": 1529989711000,
-    "relativePath": "scripts/Star.js"
-  },
   "ff04109c-28c9-482f-9fac-717f592bfc24": {
-    "asset": 1529989791000,
-    "meta": 1529989791000,
+    "asset": 1530162121000,
+    "meta": 1530162121000,
     "relativePath": "star.prefab"
   },
+  "68d43898-494c-48d5-9b4d-2daa3108ddd2": {
+    "asset": 1529992156000,
+    "meta": 1529992156000,
+    "relativePath": "textures/ground.prefab"
+  },
+  "718a762a-83cf-42bf-9a0c-4abe1f96a62e": {
+    "asset": 1529992332000,
+    "meta": 1529992332000,
+    "relativePath": "textures/Player.prefab"
+  },
+  "edd905e3-9726-456f-8c32-fc1a0c5c90fc": {
+    "asset": 1530161365000,
+    "meta": 1530161494000,
+    "relativePath": "scripts/Star.js"
+  },
   "17097e34-5d29-48fe-b5ef-773612033cfc": {
-    "asset": 1529989885000,
-    "meta": 1529989896000,
+    "asset": 1530161966000,
+    "meta": 1530161971000,
     "relativePath": "scripts/Game.js"
   }
 }

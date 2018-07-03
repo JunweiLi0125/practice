@@ -101,5 +101,12 @@
       ]
     }
   },
-  "panels": {}
+  "panels": {
+    "preferences": {
+      "x": 403,
+      "y": 77,
+      "width": 564,
+      "height": 548
+    }
+  }
 }

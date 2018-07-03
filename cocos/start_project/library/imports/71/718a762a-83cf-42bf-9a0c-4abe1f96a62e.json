@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.Prefab",
-    "_name": "star",
+    "_name": "Player",
     "_objFlags": 0,
     "_rawFiles": null,
     "data": {
@@ -11,7 +11,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "star",
+    "_name": "Player",
     "_objFlags": 0,
     "_parent": null,
     "_children": [],
@@ -41,12 +41,12 @@
     "_anchorPoint": {
       "__type__": "cc.Vec2",
       "x": 0.5,
-      "y": 0.5
+      "y": 0
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 60,
-      "height": 66
+      "width": 78,
+      "height": 67
     },
     "_rotationX": 0,
     "_rotationY": 0,
@@ -55,7 +55,7 @@
     "_position": {
       "__type__": "cc.Vec2",
       "x": 0,
-      "y": 0
+      "y": -120
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -73,7 +73,7 @@
     },
     "_enabled": true,
     "_spriteFrame": {
-      "__uuid__": "8f8ba54f-70f6-4ca1-86d9-dddbd85e769d"
+      "__uuid__": "a7d32fc1-4a29-491e-a5e2-0892063d35d0"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -91,14 +91,17 @@
     "_atlas": null
   },
   {
-    "__type__": "edd90XjlyZFb4wy/BoMXJD8",
+    "__type__": "2f97cQ5QshAmY4USQQBXp5y",
     "_name": "",
     "_objFlags": 0,
     "node": {
       "__id__": 1
     },
     "_enabled": true,
-    "pickRadius": 60
+    "jumpHeight": 200,
+    "jumpDuration": 0.4,
+    "maxMoveSpeed": 400,
+    "accel": 350
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -106,9 +109,9 @@
       "__id__": 1
     },
     "asset": {
-      "__uuid__": "ff04109c-28c9-482f-9fac-717f592bfc24"
+      "__id__": 0
     },
-    "fileId": "e9R5CUvNxCWJ8gN/sLnE4u",
+    "fileId": "1bP/h0zexJgpnsRgnlKzbF",
     "sync": false
   }
 ]

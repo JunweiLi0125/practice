@@ -1,7 +1,7 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "PurpleMonster",
+    "name": "Player",
     "texture": "c6b5fd13-6a7f-4187-8716-1189e5d13c27",
     "atlas": "",
     "rect": [
